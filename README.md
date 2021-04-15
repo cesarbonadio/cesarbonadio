@@ -2,6 +2,8 @@
 
 ![euler](https://projecteuler.net/profile/cesarbonadio12.png)
 
+![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio)
+
 <!--
 **cesarbonadio/cesarbonadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
