@@ -4,7 +4,7 @@
 
 ![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px;--height:10px;--width:10px;)
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px;--height:10px;--width:10px;" width="250" height="100">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px;--height:10px;--width:10px;" width="350" height="150">
 
 <!--
 **cesarbonadio/cesarbonadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
