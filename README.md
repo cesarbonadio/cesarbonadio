@@ -1,6 +1,6 @@
 ### Hello
 
-![euler](https://projecteuler.net/profile/cesarbonadio12.png) | <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px;--height:10px;--width:10px;" width="375" height="175">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px;--height:10px;--width:10px;" width="375" height="175"> | ![euler](https://projecteuler.net/profile/cesarbonadio12.png) 
 
 <!--
 **cesarbonadio/cesarbonadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
