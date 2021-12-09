@@ -1,6 +1,6 @@
 ### Hello world
 
- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cesarbonadio" width="20px"/>
+ <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cesarbonadio" width="150px" height="150px"/>
 
  ![euler](https://projecteuler.net/profile/cesarbonadio12.png) 
 
