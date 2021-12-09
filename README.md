@@ -1,5 +1,6 @@
 ### Hello world
 
+<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
 <codersrank-skills-chart username="cesarbonadio"></codersrank-skills-chart>
 
  ![euler](https://projecteuler.net/profile/cesarbonadio12.png) 
