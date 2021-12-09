@@ -1,6 +1,6 @@
 ### Hello world
 
- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cesarbonadio&skills=JavaScript,TypeScript&show-other-skills=true"/>
+ <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cesarbonadio"/>
 
  ![euler](https://projecteuler.net/profile/cesarbonadio12.png) 
 
