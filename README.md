@@ -1,5 +1,7 @@
 ### Hello world
 
+<codersrank-skills-chart username="cesarbonadio"></codersrank-skills-chart>
+
  ![euler](https://projecteuler.net/profile/cesarbonadio12.png) 
 
 <!--
