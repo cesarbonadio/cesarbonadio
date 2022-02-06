@@ -3,6 +3,8 @@
  <!--<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cesarbonadio&bg=green" width="450px" height="450px"/>-->
 
  ![euler](https://projecteuler.net/profile/cesarbonadio12.png) 
+ 
+ <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio?show-avatar=true&width=300"/>
 
 <!--
 **cesarbonadio/cesarbonadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
