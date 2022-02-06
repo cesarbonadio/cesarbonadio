@@ -4,7 +4,7 @@
 
  ![euler](https://projecteuler.net/profile/cesarbonadio12.png) 
  
- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio?show-avatar=true&width=300" width="200px"/>
+ <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio" width="250px"/>
 
 <!--
 **cesarbonadio/cesarbonadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
