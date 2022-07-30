@@ -23,9 +23,11 @@
  <table align="center">
   <tr>
      <td align="center">Github</td>
+     <td align="center">StackOverflow</td>
   </tr>
   <tr width="600px">
-    <td valign="center"><img width="955px" src="http://github-readme-streak-stats.herokuapp.com?user=cesarbonadio&theme=calm&hide_border=true&locale=es&fire=00DD1B&background=000000&ring=00DD1B&sideNums=00DD1B"></td>
+    <td valign="center"><img width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=cesarbonadio&theme=calm&hide_border=true&locale=es&fire=00DD1B&background=000000&ring=00DD1B&sideNums=00DD1B"></td>
+    <td valign="center"><img src="https://github-readme-stackoverflow.vercel.app/?userID=8889629&theme=dark&layout=compact"></td>
   </tr>
  </table>
 
