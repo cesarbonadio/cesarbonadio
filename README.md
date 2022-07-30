@@ -8,11 +8,16 @@
 
 <div align="center">
 
- <!--<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cesarbonadio&bg=green" width="450px" height="450px"/>-->
+<div align="right">
 
  ![euler](https://projecteuler.net/profile/cesarbonadio12.png) 
+</div>
  
  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio" width="300px"/>
+
+</div>
+
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cesarbonadio&theme=calm&hide_border=true&locale=es&fire=00DD1B&background=000000&ring=00DD1B&sideNums=00DD1B)](https://git.io/streak-stats)
  
