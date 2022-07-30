@@ -14,7 +14,7 @@
  
  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio" width="300px"/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cesarbonadio&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cesarbonadio&theme=calm&hide_border=true&locale=es&fire=00DD1B&background=000000&ring=00DD1B&sideNums=00DD1B)](https://git.io/streak-stats)
  
  </div>
 
