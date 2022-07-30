@@ -8,8 +8,10 @@
 
 <div align="center">
 
- <div  width="45%">
+ <div width="45%">
+  
  ![euler](https://projecteuler.net/profile/cesarbonadio12.png)
+  
  </div>
  
  <img  width="45%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio" width="300px"/>
