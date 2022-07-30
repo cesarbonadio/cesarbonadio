@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td valign="top"><img src="screenshots/Screenshot_1582745092.png"></td>
-    <td valign="top"><img src="screenshots/Screenshot_1582745125.png"></td>
+    <td valign="top"> <img  width="45%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio" width="300px"/></td>
   </tr>
  </table>
 
