@@ -7,28 +7,18 @@
 </div>
 
 
-<table>
+<table align="center">
   <tr>
-     <td>Project Euler</td>
-     <td>CodersRank</td>
+     <td align="center">Project Euler</td>
+     <td align="center">CodersRank</td>
+     <td align="center">Codewars</td> 
   </tr>
   <tr>
-    <td valign="top"><img src="screenshots/Screenshot_1582745092.png"></td>
-    <td valign="top"> <img  width="45%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio" width="300px"/></td>
+    <td valign="center"><img src="https://projecteuler.net/profile/cesarbonadio12.png"></td>
+    <td valign="center"><img src="https://www.codewars.com/users/cesarbonadio/badges/large"></td>
+    <td valign="center"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio" width="300px"/></td>
   </tr>
  </table>
-
-<div align="center">
-
- <div width="45%">
-  
- ![euler](https://projecteuler.net/profile/cesarbonadio12.png)
-  
- </div>
- 
- <img  width="45%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cesarbonadio" width="300px"/>
-
-</div>
 
 <div align="center">
 
