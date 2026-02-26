@@ -4,6 +4,8 @@
 
 # Cesar Bonadio 
 
+Senior Full Stack Developer with more than 6 years of work experience in the IT environment. More than 10 years of coding experience (working and academically combined). Devoted to always increase my skills through reading and research; always looking for an opportunity to learn something new and improve myself. I like to follow good coding practices and standards to provide good quality software. I strive to be a team player, problem solver, and mentor who helps other developers grow both professionally and personally.
+
 </div>
 
 
